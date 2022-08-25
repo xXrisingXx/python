@@ -1,5 +1,3 @@
-from cProfile import label
-from faulthandler import disable
 import os
 import discord
 #from discord.ui import Select, View
